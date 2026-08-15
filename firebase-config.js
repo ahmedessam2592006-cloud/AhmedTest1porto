@@ -17,7 +17,7 @@ const db = firebase.firestore();
 const auth = firebase.auth();
 
 // Admin credentials
-const ADMIN_EMAIL = "ahmedtest1@gmail.com";
+const ADMIN_EMAIL = "ahmedessam.port@gmail.com";
 const ADMIN_PASSWORD = "sasa1968";
 
 // Export for other files
